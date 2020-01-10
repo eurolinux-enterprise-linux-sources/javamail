@@ -1,0 +1,4 @@
+repo: da19cbb2014590348273983815b35ac8a48717c5
+node: 3dba8c78634fcb1ffd9a32e840bcfab91a83a551
+branch: default
+tag: JAVAMAIL-1_4_6
