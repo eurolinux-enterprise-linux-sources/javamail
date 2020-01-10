@@ -1,6 +1,6 @@
 Name:           javamail
 Version:        1.4.6
-Release:        7%{?dist}
+Release:        8%{?dist}
 Summary:        Java Mail API
 License:        CDDL or GPLv2 with exceptions
 URL:            http://www.oracle.com/technetwork/java/javamail
@@ -78,6 +78,9 @@ Summary:        Javadoc for %{name}
 %doc mail/src/main/resources/META-INF/LICENSE.txt
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.4.6-8
+- Mass rebuild 2013-12-27
+
 * Fri Aug 02 2013 Michal Srb <msrb@redhat.com> - 1.4.6-7
 - Add create-tarball.sh script to SRPM
 
